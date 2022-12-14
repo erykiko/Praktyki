@@ -1,0 +1,10 @@
+#baner {
+    height: 120px;
+    background-image: url(files/bgStars.gif);
+}
+*{
+    font-family: 'Source Code Pro', monospace;
+}
+.card{
+    font-weight: 600;
+}
